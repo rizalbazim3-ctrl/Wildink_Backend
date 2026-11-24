@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Wildink.API/Wildink.API.csproj" />
+  <Project Path="Wildink.Application/Wildink.Application.csproj" />
+  <Project Path="Wildink.Domain/Wildink.Domain.csproj" />
+  <Project Path="Wildink.Infrastructure/Wildink.Infrastructure.csproj" />
+</Solution>
